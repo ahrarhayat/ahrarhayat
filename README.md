@@ -11,6 +11,6 @@ Engineer at **AKQA**, working across the full stack with a focus on front-end de
 
 I love building apps that make a real difference, and I bring that same passion into the classroom.
 
-**Stack:** React · React Native · TypeScript · Cypress · Playwright · AWS · CI/CD · .NET · Android
+**Stack:** React · React Native · TypeScript · Express JS · Cypress · Playwright · AWS · CI/CD · .NET · Android
 
 🎯 Goal: become a global leader in tech.
