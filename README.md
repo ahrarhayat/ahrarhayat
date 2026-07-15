@@ -1,7 +1,6 @@
 <p align="center">
   <img width="120" height="120" src="logo2.png" style="border-radius: 50%">
 </p>
-
 <h2 align="center">Ahrar Hayat</h2>
 <p align="center">Software Engineer · Teaching Associate · Melbourne, AU 🇦🇺</p>
 
@@ -11,6 +10,6 @@ Engineer at **AKQA**, working across the full stack with a focus on front-end de
 
 I love building apps that make a real difference, and I bring that same passion into the classroom.
 
-**Stack:** React · React Native · TypeScript · Express JS · Cypress · Playwright · AWS · CI/CD · .NET · Android
+**Stack:** React · React Native · TypeScript · Express JS · Ruby on Rails (MVC & API) · .NET MVC · .NET Core · Cypress · Playwright · AWS · CI/CD · Android
 
 🎯 Goal: become a global leader in tech.
