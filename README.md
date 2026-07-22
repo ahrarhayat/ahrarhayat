@@ -6,7 +6,7 @@
 
 ---
 
-Engineer at **AKQA**, working across the full stack with a focus on front-end development. Teaching Associate at **Monash University**, sharing knowledge on software engineering and development best practices.
+Engineer at **AKQA**, working across the full stack development. Teaching Associate at **Monash University**, sharing knowledge on software engineering and development best practices.
 
 I love building apps that make a real difference, and I bring that same passion into the classroom.
 
