@@ -10,6 +10,5 @@ Engineer at **AKQA**, working across the full stack development. Teaching Associ
 
 I love building apps that make a real difference, and I bring that same passion into the classroom.
 
-**Stack:** React · React Native · TypeScript · Express JS · Ruby on Rails (MVC & API) · .NET MVC · .NET Core · Cypress · Playwright · AWS · CI/CD · Android
+**Stack:** React · React Native · TypeScript · Node.js/Express · Python · Java · Ruby on Rails (MVC & API) · .NET MVC · .NET Core · Cypress · Playwright · AWS · CI/CD · Android
 
-🎯 Goal: become a global leader in tech.
