@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="120" height="120" src="logo2.png" style="border-radius: 50%">
+  <img width="120" height="120" src="image_3555.jpeg" style="border-radius: 50%">
 </p>
 <h2 align="center">Ahrar Hayat</h2>
 <p align="center">Software Engineer · Teaching Associate · Melbourne, AU 🇦🇺</p>
